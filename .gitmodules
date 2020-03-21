@@ -1,0 +1,3 @@
+[submodule "sm_sub_project"]
+	path = sm_sub_project
+	url = https://github.com/arifmp/sm_sub_project.git
